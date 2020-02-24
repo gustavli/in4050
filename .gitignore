@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+assignment01/design.toc
+assignment01/design.aux
